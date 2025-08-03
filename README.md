@@ -11,7 +11,7 @@ run uwd2w.exe (or run with administrator for global)
 done
 
 
-exe file already compile (download uwd2w.exe and put in same folder with uwd2.exe)
+or use exe file already compile (download uwd2w.exe and put in same folder with uwd2.exe)
 
 run uwd2w.exe (or run with administrator for global)
 
