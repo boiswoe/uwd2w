@@ -1,7 +1,7 @@
 # uwd2w
 UWD2 - Native single-instance mutex tool for Windows startup apps 
 
-file scr: uwd2w.c
+file scr: uwd2w.cpp
 compile to exe using mingw64 (64bit) mingw32 (32bit):
 
 g++ uwd2w.cpp -mwindows -static -Os -s -fno-exceptions -fno-rtti -o uwd2w.exe
