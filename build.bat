@@ -1,1 +1,0 @@
-cl uwd2w.c /link /subsystem:windows /entry:WinMain /nodefaultlib
